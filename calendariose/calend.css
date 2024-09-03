@@ -1,0 +1,130 @@
+table, td, th {
+display: block;
+border-color: black;
+border: 1px solid;
+}
+
+h1 {
+
+color: white;   
+}
+
+body {
+
+background-color: rgb(32, 31, 31);    
+}
+
+table {
+
+    width: 800px;
+    height: 578px;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th {
+
+
+}
+
+.fufu {
+
+height: 40px;
+width: 101px;
+float:left;
+vertical-align: bottom;
+
+}
+
+td {
+
+    text-align: center;
+    vertical-align: bottom;
+    float: left;
+    height: 40px;
+    width: 101px;
+}
+
+th, td {
+
+    padding: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ling {
+
+background-color: rgb(146, 255, 136);
+
+}
+
+.ling:hover {
+
+   background-color: rgb(73, 224, 59);   
+}
+
+.tecnico {
+
+ background-color: rgb(119, 162, 226);   
+}
+
+.tecnico:hover {
+
+background-color: rgb(79, 136, 223) ;
+}
+
+.ch {
+
+background-color: rgb(235, 215, 101);
+    
+}
+
+.ch:hover {
+
+background-color: rgb(233, 206, 51);    
+}
+
+.fisica {
+
+ background-color: rgb(228, 112, 179);   
+}
+
+.fisica:hover {
+
+background-color: rgb(221, 63, 155) ;
+}
+
+.mat {
+
+background-color: rgb(235, 71, 71);
+}
+
+.mat:hover {
+
+ background-color:rgb(219, 43, 43); ;
+
+}
+
+.int {
+
+background-color: rgb(168, 168, 168);
+
+}
+
+
+.pv {
+
+background-color: rgb(238, 170, 115);
+
+}
+.pv:hover {
+
+ background-color:rgb(223, 128, 51); ;   
+}
+
+img {
+
+float: right;
+width: 200px ;
+height: 200px;
+border-bottom: 900px;
+}
